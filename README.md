@@ -1,5 +1,5 @@
 # fusuma-gestures
-Ubuntu touchpad gestures config file
+Gnome touchpad gestures config file
 
 - 3 swipe up: show desktop
 - 3 swite down: alt + tab (switch only between two apps)
